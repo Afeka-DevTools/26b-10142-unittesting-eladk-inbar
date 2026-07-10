@@ -1,5 +1,6 @@
 # Java Unit Testing Guide: JUnit 5
 
+The gemini link: https://share.gemini.google/DthR8OpTXDnL
 ---
 
 ## 1. The Core Philosophy: Arrange, Act, Assert (AAA)
