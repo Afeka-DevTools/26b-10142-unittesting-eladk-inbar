@@ -6,8 +6,7 @@
 
 ## 👥 Team Members
 * **Elad Katz** <216553420>
-* [Partner Name 2] - [ID or GitHub Username]
-
+* **Inbar Hecht** <315671172>
 
 ## 📝 Project Overview
 This repository contains the submission for Homework 2. The primary focus of this project is working with the Gradle build tool and writing comprehensive Java unit tests. 
