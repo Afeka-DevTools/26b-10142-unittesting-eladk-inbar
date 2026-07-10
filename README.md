@@ -5,7 +5,7 @@
 **Semester:** A
 
 ## 👥 Team Members
-* **Elad Katz**
+* **Elad Katz** <216553420>
 * [Partner Name 2] - [ID or GitHub Username]
 * [Partner Name 3] - [ID or GitHub Username]
 
