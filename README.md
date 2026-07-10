@@ -2,7 +2,7 @@
 
 **Afeka College of Engineering - School of Software Engineering**
 **Course:** Development Tools
-**Semester:** A
+**Semester:** B
 
 ## 👥 Team Members
 * **Elad Katz** <216553420>
