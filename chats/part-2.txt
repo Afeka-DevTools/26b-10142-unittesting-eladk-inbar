@@ -1,3 +1,11 @@
+Question 1:
+i got an assigment that requests me to self learn using gemini about unit testing, please explain in details uni testing and what comes with it
+aswell please explain it using code and text only, when send it please use a markdown format so i can copy to my text
+
+
+
+
+
 # Java Unit Testing Guide: JUnit 5
 
 ---
